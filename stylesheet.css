@@ -35,12 +35,14 @@ body{
 
 .raised{width:400px;
 margin: 10px;
-float:left;}
+float:left;
+padding:10px;}
+
 
 .down{width:300px;
     margin: 10px;
     float: right;
-    
+    padding:10px; 
 }
 
 .certificate{
@@ -49,10 +51,31 @@ float:left;}
 
 header{background-color: #2d3b71;}
 
-.p1{text-align: justify}
+.p1{text-align: justify
+;}
 .p2{ text-align: justify}
 
 .top{width: 35px; ;}
+
+table{margin:auto;}
+th,td{border:solid 1px white; padding:2px 4px
+}
+/* Color the background of every other table row */
+tr:nth-child(odd){
+   background-color:#cef;}
+   /* Highlight table row on hover */
+tr:hover{
+   background-color:rgb(0, 183, 255);
+   cursor:pointer;
+}
+
+/* Give table header cells a gray background */
+th {
+   background-color: rosybrown;
+}
+
+
+
 
 
 
@@ -66,7 +89,7 @@ header{background-color: #2d3b71;}
 
 /*Unvisited links*/
 a:link{
-    color:green;
+    color:white;
     text-decoration: none;
  }
  
@@ -78,8 +101,8 @@ a:link{
  
  /*Mouse pointer hovering over link*/
  a:hover{
-    color:black;
-    background-color:yellow;
+    color:yellow;
+    background-color:black;
     text-decoration: underline;
  }
  
@@ -88,7 +111,9 @@ a:link{
     background-color:silver;
     text-decoration: none;
  }
-
+/* table{margin:1em auto;
+/* Center the table, and put one blank line above and below 
+} */
 
 
 
