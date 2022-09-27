@@ -1,0 +1,18 @@
+body {
+  background: blue
+}
+
+
+header {
+  background-color: rgb(58, 53, 128);
+
+}
+
+.log {
+  width: 110px;
+  margin: 8px;
+  vertical-align: middle;
+
+}
+nav a{color: white;
+float: right;}
