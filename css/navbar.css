@@ -1,10 +1,12 @@
 body {
-  background: blue
+  background: blue;
+  margin: 0;
 }
 
 
 header {
   background-color: rgb(58, 53, 128);
+ 
 
 }
 
@@ -13,6 +15,22 @@ header {
   margin: 8px;
   vertical-align: middle;
 
+
 }
-nav a{color: white;
-float: right;}
+
+nav {
+  line-height: 100px;
+  height: 30px;
+  float: right;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 115%;
+}
+
+
+h1 {
+  margin: 0;
+}
