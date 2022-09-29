@@ -1,0 +1,10 @@
+@import url(navbar.css);
+
+
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+ background:  blue;
+}
+section{width: 100vh;}
