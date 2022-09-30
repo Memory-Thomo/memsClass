@@ -1,0 +1,37 @@
+.home {
+  height: 80vh;
+  width: 100%;
+  background-color:#8cc8c3;
+}
+
+
+
+h1 {
+  padding: 50px;
+  font-size: 30pt;
+  color: white;
+  line-height: 1.7em;
+}
+
+.p1 {
+  padding: 50px;
+  font-size: 15pt;
+  color: white
+}
+
+.homebutton {
+  margin: 50px;
+  padding: 20px;
+  border-radius: 20px;
+  width: 150px;
+  color: rgb(32, 28, 28);
+
+}
+
+.homebutton2 {
+  margin: 50px;
+  padding: 20px;
+  border-radius: 20px;
+  width: 150px;
+
+}
