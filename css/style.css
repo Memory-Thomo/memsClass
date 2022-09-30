@@ -1,6 +1,6 @@
 @import url(navbar.css);
 @import url(teste.css);
-@import url(about.css);
+@import url(home.css);
 @import url(english.css);
 
 body {
@@ -10,4 +10,5 @@ body {
 *{
   padding: 0px;
   margin: 0px;
+  list-style: none;
 }

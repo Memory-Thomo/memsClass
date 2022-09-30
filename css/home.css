@@ -1,37 +1,29 @@
-.home {
-  height: 80vh;
-  width: 100%;
-  background-color:#8cc8c3;
+.home{
+    height: 80vh;
+    width: 100%;
+    background-color: rgb(237 237 237);
 }
 
-
-
-h1 {
-  padding: 50px;
-  font-size: 30pt;
-  color: white;
-  line-height: 1.7em;
-}
-
-.p1 {
-  padding: 50px;
-  font-size: 15pt;
-  color: white
-}
-
-.homebutton {
-  margin: 50px;
-  padding: 20px;
-  border-radius: 20px;
-  width: 150px;
-  color: rgb(32, 28, 28);
+h1{
+    font-size: 135px;
+    padding-bottom: 10px !important;
+    padding: 60px ;
 
 }
 
-.homebutton2 {
-  margin: 50px;
-  padding: 20px;
-  border-radius: 20px;
-  width: 150px;
-
+h3, h6{
+font-size: larger;
+padding-left: 60px;
+padding-bottom: 40px;
 }
+
+button{
+    margin-left: 60px;
+    padding: 19px;
+    width: 140px;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 7px;
+}
+
