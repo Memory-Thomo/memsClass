@@ -1,5 +1,139 @@
-.teste{
-    height: 80vh;
+.teste {
+    height: 110vh;
     width: 100%;
-    background-color: rgb(59, 111, 129);
+    background-color: white;
+}
+
+.secdiv {
+
+    background-color: rgb(237, 248, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+
+    margin-right: 250px;
+    margin-left: 250px;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    height: 1000px;
+}
+
+
+
+
+.pp {
+    background-color: rgb(101, 199, 231);
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    height: 500px;
+    width: 550px;
+    border-radius: 10px;
+    font-size: 50pt;
+    color: #0b162e;
+}
+
+.p1 {
+    background-color: deepskyblue;
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    height: 500px;
+    width: 560px;
+    box-shadow: 8px 8px 8px 15px rgba(190, 190, 209, 0.39);
+    border-radius: 10px;
+    font-size: 50pt;
+    color: white;
+}
+
+
+.p2 {
+
+    background-color: rgb(101, 199, 231);
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    height: 500px;
+    width: 560px;
+    border-radius: 10px;
+    font-size: 50pt;
+    color: #0b162e;
+
+
+}
+
+.p3 {
+
+    margin-top: 70px;
+
+    align-items: center;
+    height: 550px;
+    width: 1800px;
+    border-top-right-radius: 110px;
+    color: #0b162e;
+    font-size: 30pt;
+    padding: 0px;
+    text-align: left;
+    margin-top: 0px;
+    display: flex;
+}
+
+
+.p3 {
+
+    margin-top: 70px;
+    align-items: left;
+    height: 550px;
+    width: 550px;
+    border-top-right-radius: 110px;
+    color: #0b162e;
+    font-size: 30pt;
+    padding: 0px;
+    text-align: left;
+    margin-top: 0px;
+    display: flex;
+
+}
+
+
+.p4 {
+
+    margin-top: 70px;
+    align-items: center;
+    height: 550px;
+    width: 500px;
+    border-top-right-radius: 110px;
+    color: #0b162e;
+    font-size: 30pt;
+    padding: 0px;
+    text-align: left;
+    margin-top: 0px;
+    display: flex;
+}
+
+.buttn {
+    width: 300px;
+    height: 80px;
+    color: rgb(255, 165, 0);
+    background-color: black;
+    font-size: 25pt;
+}
+
+
+b {
+    font-size: 20pt;
+}
+
+.b1 {
+    font-size: 20pt;
+    font-display: flex;
+}
+
+.h1 {
+    text-align: center;
+    margin-top: 205px;
+    font-size: 450%;
+    color: #0b162e;
+    font-family: Eras Demi ITC;
+    font-weight: 90;
 }

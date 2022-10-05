@@ -1,5 +1,7 @@
 .english{
-  height: 80vh;
+  height:50vh;
   width: 100%;
-  background-color: rgb(189, 189, 189);
-}
+  background-color: #121617;
+  color: white;
+text-align: center
+;}
