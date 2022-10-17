@@ -1,10 +1,15 @@
 .home {
-    height: 85vh;
-    width: 100%;
-    background-color: #006482;
+    
+    width: 86%;
+    height: 80vh;
+    background-color:#0ea0cc  ;
     display: flex;
     align-items: center;
-    color: white;
+    color:white;
+    border-radius: 15px;
+    margin-left: 170px;
+    
+    
 }
 
 .cleft{
@@ -17,9 +22,10 @@
 }
 
 h1 {
-    font-size: 150px;
+    font-size: 120px;
     padding-bottom: 10px !important;
     padding: 100px;
+    font-weight: 100;
 
 }
 
@@ -31,13 +37,15 @@ h6 {
 }
 
 button {
-    margin-left: 100px;
+    margin-left: 4px;
     padding: 19px;
-    width: 140px;
+    width: 160px;
     color: black;
     font-size: 14pt;
-    background-color: white;
+    background-color:white;
     border: none;
     border-radius: 7px;
 }
 
+.btnhome{background-color:white;
+margin-left: 100px;}

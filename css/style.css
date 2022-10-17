@@ -2,7 +2,7 @@
 @import url(teste.css);
 @import url(home.css);
 @import url(english.css);
-
+@import url(memory.css);
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -11,6 +11,8 @@ body {
   padding: 0px;
   margin: 0px;
   list-style: none;
+
+  
 }
-article{background-color: white;
-height: 35px;}
+/* article{background-color: white;
+height: 35px;} */

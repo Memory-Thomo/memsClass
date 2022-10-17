@@ -1,126 +1,135 @@
 .teste {
-    height: 110vh;
-    width: 100%;
-    background-color: white;
+    
+    min-width: auto;
+    background-color:;
+    
+    
 }
 
+
+
 .secdiv {
-    background-color: rgb(237, 248, 255);
-    display: flex;
+    background-color:;
+    display: flex; 
     justify-content: space-around;
-    align-items: flex-start;
-    margin-right: 250px;
-    margin-left: 250px;
     flex-wrap: wrap;
-    flex-direction: row-reverse;
-    height: 1000px;
+    height: 500px;
+    
 }
 
 
 .pp {
-    background-color:#FF9933;
-    margin-top: 70px;
-    display: flex;
-    align-items: center;
-    height: 500px;
-    width: 550px;
+    background-color:white;
+    display: grid;
+    height: 430px;
+    width: 650px;
     border-radius: 10px;
-    font-size: 50pt;
+    font-size: 26pt;
     color: #0b162e;
+    margin-bottom: 1000px ;
+    margin-left:70px ;
+    padding-left: 21px;
+    align-items: center;
+    align-content: stretch;
+    flex-direction: column;
+    justify-content: space-between;
+    font-weight: 90;    margin-bottom: 1.5rem;
+
 }
+
+
+
+
+  
+
+/* background-color:	#ED8B16; */
 
 .p1 {
-    background-color:#024959;
-    margin-top: 70px;
-    display: flex;
-    align-items: center;
-    height: 500px;
-    width: 560px;
-    box-shadow: 8px 8px 8px 15px rgba(190, 190, 209, 0.39);
+    background-color: white;
+    display: grid;
+    height: 430px;
+    width: 650px;
     border-radius: 10px;
-    font-size: 50pt;
-    color: white;
-}
+    font-size: 26pt;
+    color: #0b162e;
+    padding-left: 21px;
+    align-items: center;
+    align-content: stretch;
+    flex-direction: column;
+    justify-content: space-between; 
+    font-weight: 90;
+    margin-bottom: 1.5rem;
 
+
+}
 
 .p2 {
-
-    background-color:#A1C7E0;
-    margin-top: 70px;
-    display: flex;
-    align-items: center;
-    height: 500px;
-    width: 560px;
+    background-color:white;
+    display: grid;
+    height: 430px;
+    width: 650px;
     border-radius: 10px;
-    font-size: 50pt;
-    color: #0b162e;
+    font-size: 26pt;
+    color:#0b162e;
+    margin-bottom: 1.5rem;
 
-
-}
-
-.p3 {
-
-    margin-top: 70px;
+    padding-left: 21px;
     align-items: center;
-    height: 550px;
-    width: 1800px;
-    border-top-right-radius: 110px;
-    color: #0b162e;
-    font-size: 30pt;
-    text-align: left;
-    display: flex;
-}
-
-
-.p3 {
-    margin-top: 70px;
-    align-items: left;
-    height: 550px;
-    width: 550px;
-    border-top-right-radius: 110px;
-    color: #0b162e;
-    font-size: 30pt;
-    text-align: left;
-    display: flex;
+    align-content: stretch;
+    flex-direction: column;
+    justify-content: space-between; 
+    font-weight: 90;
 
 }
 
 
-.p4 {
-    margin-top: 70px;
-    align-items: center;
-    height: 550px;
-    width: 500px;
-    border-top-right-radius: 110px;
-    color: #0b162e;
-    font-size: 30pt;
-    text-align: left;
-    display: flex;
-}
 
-.buttn {
+
+.cardtitle{display: flex;
+    color:#0b162e;
+    margin-top: -89px;
+    padding-left: 1px;
+    flex-direction: column;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 35pt;
+font-weight: 115;
+}
+    
+    .card2{display: flex;
+        color: #0b162e;
+        margin-top: -89px;
+        padding-left: 1px;
+        flex-direction: column;
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 35pt;
+        font-weight: 115;
+    }
+    
+    .card3{display: flex;
+        color: #0b162e;
+        margin-top: -89px;
+        padding-left: 1px;
+        flex-direction: column;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 35pt;
+        text-align: left;
+        font-weight: 115;
+    }
+
+.buttn{
     width: 300px;
     height: 80px;
-    color: rgb(255, 165, 0);
-    background-color: black;
+    color: white;
+    background-color:#0ea0cc  ;
+
     font-size: 25pt;
-}
+display: flex;
+justify-content: center;
+margin-right: 105px;
+ font-weight: 90;
 
-
-b {
-    font-size: 20pt;
 }
+    
+.buttn:hover{ background-color: rgb(58, 54, 255)}
 
-.b1 {
-    font-size: 20pt;
-    font-display: flex;
-}
-
-.h1 {
-    text-align: center;
-    margin-top: 205px;
-    font-size: 450%;
-    color: #0b162e;
-    font-family: Eras Demi ITC;
-    font-weight: 90;
-}
+    
