@@ -5,12 +5,10 @@
 }
 
 .secdiv {
-
     background-color: rgb(237, 248, 255);
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
-
     margin-right: 250px;
     margin-left: 250px;
     flex-wrap: wrap;
@@ -19,10 +17,8 @@
 }
 
 
-
-
 .pp {
-    background-color: rgb(101, 199, 231);
+    background-color:#FF9933;
     margin-top: 70px;
     display: flex;
     align-items: center;
@@ -34,7 +30,7 @@
 }
 
 .p1 {
-    background-color: deepskyblue;
+    background-color:#024959;
     margin-top: 70px;
     display: flex;
     align-items: center;
@@ -49,7 +45,7 @@
 
 .p2 {
 
-    background-color: rgb(101, 199, 231);
+    background-color:#A1C7E0;
     margin-top: 70px;
     display: flex;
     align-items: center;
@@ -65,22 +61,18 @@
 .p3 {
 
     margin-top: 70px;
-
     align-items: center;
     height: 550px;
     width: 1800px;
     border-top-right-radius: 110px;
     color: #0b162e;
     font-size: 30pt;
-    padding: 0px;
     text-align: left;
-    margin-top: 0px;
     display: flex;
 }
 
 
 .p3 {
-
     margin-top: 70px;
     align-items: left;
     height: 550px;
@@ -88,16 +80,13 @@
     border-top-right-radius: 110px;
     color: #0b162e;
     font-size: 30pt;
-    padding: 0px;
     text-align: left;
-    margin-top: 0px;
     display: flex;
 
 }
 
 
 .p4 {
-
     margin-top: 70px;
     align-items: center;
     height: 550px;
@@ -105,9 +94,7 @@
     border-top-right-radius: 110px;
     color: #0b162e;
     font-size: 30pt;
-    padding: 0px;
     text-align: left;
-    margin-top: 0px;
     display: flex;
 }
 
