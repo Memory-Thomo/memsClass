@@ -1,10 +1,18 @@
 .teste {
     
-    min-width: auto;
-    background-color:;
+    min-width: ;
+    background-color:}
     
     
-}
+
+    .testeline{    margin-top: 100px;
+        margin-left: -14px;
+      font-weight: 90pt;
+      color: rgb(179, 173, 173);}
+      
+
+
+
 
 
 
@@ -19,21 +27,17 @@
 
 
 .pp {
-    background-color:white;
+    background-color: ;
     display: grid;
-    height: 430px;
-    width: 650px;
+    height: 263px;
+    width: 315px;
     border-radius: 10px;
-    font-size: 26pt;
+    font-size: 13pt;
     color: #0b162e;
-    margin-bottom: 1000px ;
-    margin-left:70px ;
+    margin-bottom: 1000px;
+    margin-left: 70px;
     padding-left: 21px;
     align-items: center;
-    align-content: stretch;
-    flex-direction: column;
-    justify-content: space-between;
-    font-weight: 90;    margin-bottom: 1.5rem;
 
 }
 
@@ -45,40 +49,35 @@
 /* background-color:	#ED8B16; */
 
 .p1 {
-    background-color: white;
+    background-color: ;
     display: grid;
-    height: 430px;
-    width: 650px;
+    height: 263px;
+    width: 315px;
     border-radius: 10px;
-    font-size: 26pt;
+    font-size: 13pt;
     color: #0b162e;
+    margin-bottom: 1000px;
+    margin-left: 70px;
     padding-left: 21px;
     align-items: center;
-    align-content: stretch;
-    flex-direction: column;
-    justify-content: space-between; 
-    font-weight: 90;
-    margin-bottom: 1.5rem;
+
 
 
 }
 
 .p2 {
-    background-color:white;
+    background-color:;
     display: grid;
-    height: 430px;
-    width: 650px;
+    height: 263px;
+    width: 315px;
     border-radius: 10px;
-    font-size: 26pt;
-    color:#0b162e;
-    margin-bottom: 1.5rem;
-
+    font-size: 13pt;
+    color: #0b162e;
+    margin-bottom: 1000px;
+    margin-left: 70px;
     padding-left: 21px;
     align-items: center;
-    align-content: stretch;
-    flex-direction: column;
-    justify-content: space-between; 
-    font-weight: 90;
+    
 
 }
 
@@ -91,42 +90,40 @@
     padding-left: 1px;
     flex-direction: column;
 font-family: Arial, Helvetica, sans-serif;
-font-size: 35pt;
+font-size: 20pt;
 font-weight: 115;
 }
     
-    .card2{display: flex;
-        color: #0b162e;
+    .card2{ display: flex;
+        color:#0b162e;
         margin-top: -89px;
         padding-left: 1px;
         flex-direction: column;
-        font-family: Arial, Helvetica, sans-serif; 
-        font-size: 35pt;
-        font-weight: 115;
-    }
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    font-weight: 115;}
     
     .card3{display: flex;
-        color: #0b162e;
+        color:#0b162e;
         margin-top: -89px;
         padding-left: 1px;
         flex-direction: column;
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 35pt;
-        text-align: left;
-        font-weight: 115;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    font-weight: 115;
     }
 
 .buttn{
-    width: 300px;
-    height: 80px;
+    width: 180px;
+    height: 49px;
     color: white;
-    background-color:#0ea0cc  ;
-
-    font-size: 25pt;
-display: flex;
-justify-content: center;
-margin-right: 105px;
- font-weight: 90;
+    background-color: #0ea0cc;
+    font-size: 15pt;
+    display: flex;
+    justify-content: center;
+    margin-right: 105px;
+    /* font-weight: 90; */
+    align-items: center;
 
 }
     

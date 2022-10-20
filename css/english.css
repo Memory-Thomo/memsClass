@@ -1,29 +1,26 @@
 .english {
   height: 80vh;
   width: 100%;
-  background-color:white;
-  color:rgb(218, 213, 213) ;
-  text-align: ;
   margin-left: 100px;
 }
 
-.firsec {
-  background-color: white;
-  
-
-
-
-}
-h2{font-weight: 100;
-  color: rgb(179, 173, 173);
-  padding-top: 50px;
-  margin: 10px;
+.firstengldiv {
+  background-color:yellow;}
+  .secEngldiv{background-color:black ;
 
   }
 
+
+h2{font-weight: 100;
+  color: rgb(179, 173, 173);
+  padding-top: px;
+  margin: 10px;
+
+  }
+/* 
 p{text-align: justify;
 font-size: 25pt;
 padding-top: 70px;
 padding:70px;}
 
-img{width:450px}
+img{width:450px} */

@@ -1,14 +1,19 @@
 .home {
     
-    width: 86%;
-    height: 80vh;
+    width: 1087px;
+    height: 70vh;
     background-color:#0ea0cc  ;
     display: flex;
     align-items: center;
     color:white;
-    border-radius: 15px;
-    margin-left: 170px;
+    border-radius: 3px;
+    margin-left:125px;
+    margin-right: 125px;
     
+
+
+
+
     
 }
 
@@ -16,36 +21,46 @@
     width: 50%;
 }
 .imgRight{
-    width:145%;
-    padding-right: 165px;
-    padding-bottom: 85px;
-}
+    width:68%;
+    padding-right: 150px;
+    padding-bottom: 43px;
 
-h1 {
-    font-size: 120px;
-    padding-bottom: 10px !important;
-    padding: 100px;
+}
+h1{
+    font-size:53px;
+    padding-bottom: 5px !important;
+    padding-left: 80px;
     font-weight: 100;
+    padding-top: 59px;
+    display:inline-block;
 
 }
 
-h3,
+h3{
+    font-size: 15px;
+    padding-left: 80px;
+    padding-bottom: 10px;
+    padding-top: 12px;
+}
 h6 {
-    font-size: 30px;
-    padding-left: 100px;
-    padding-bottom: 40px;
+    font-size: 15px;
+    padding-left: 80px;
+    padding-bottom: 60px;
+    padding-top: 12px;
 }
 
 button {
     margin-left: 4px;
-    padding: 19px;
-    width: 160px;
+    padding: 10px;
+    width: 150px;
+    height: 35px;
     color: black;
-    font-size: 14pt;
+    font-size: 10pt;
     background-color:white;
     border: none;
-    border-radius: 7px;
+    border-radius: 2px;
 }
 
 .btnhome{background-color:white;
-margin-left: 100px;}
+margin-left: 80px;
+}
